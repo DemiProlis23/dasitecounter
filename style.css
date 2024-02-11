@@ -80,6 +80,18 @@ body{
     .Text, .prev{
         font-size: x-large;
     }
+
+    #inc{
+        background-color: rgb(126, 81, 81);
+    }
+    
+    #save{
+        background-color: rgb(128, 128, 182);
+    }
+    
+    #res{
+        background-color: rgb(139, 139, 86);
+    }
 }
 
 @media (max-width:440px) {
@@ -116,5 +128,17 @@ body{
     }
     .Text, .prev{
         font-size: large;
+    }
+
+    #inc{
+        background-color: rgb(18, 189, 41);
+    }
+    
+    #save{
+        background-color: rgb(77, 99, 62);
+    }
+    
+    #res{
+        background-color: rgb(82, 172, 94);
     }
 }
